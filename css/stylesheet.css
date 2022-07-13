@@ -30,7 +30,7 @@ a{
 }
 
 .main-wrapper{
-    background-image: url(https://github.com/rs-janv/LandingPage/blob/master/img/main-wrapper-bg.png);
+    background-image: url("https://github.com/rs-janv/LandingPage/blob/master/img/main-wrapper-bg.png?raw=true");
     background-repeat: no-repeat;
     /* background-size: auto; */
     background-position: center;
@@ -79,7 +79,7 @@ h2{
     height: 200px;
     width: 250px;
     margin: 10px 0px 0px 0px;
-    background: url(https://rs-janv.github.io/LandingPage/img/service1.png) no-repeat center;
+    background: url("https://github.com/rs-janv/LandingPage/blob/master/img/service1.png?raw=true") no-repeat center;
     background-size: cover;
     box-sizing: border-box;
 }
@@ -88,7 +88,7 @@ h2{
     height: 200px;
     width: 250px;
     margin: 10px 0px 0px 0px;
-    background: url(https://rs-janv.github.io/LandingPage/img/service2.png) no-repeat center;
+    background: url("https://github.com/rs-janv/LandingPage/blob/master/img/service2.png?raw=true") no-repeat center;
     background-size: cover;
     box-sizing: border-box;
 }
@@ -97,7 +97,7 @@ h2{
     height: 200px;
     width: 250px;
     margin: 10px 0px 0px 0px;
-    background: url(https://rs-janv.github.io/LandingPage/img/service3.png) no-repeat center;
+    background: url("https://github.com/rs-janv/LandingPage/blob/master/img/service3.png?raw=true") no-repeat center;
     background-size: cover;
     box-sizing: border-box;
 }
