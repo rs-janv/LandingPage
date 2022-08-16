@@ -167,7 +167,7 @@ h2{
 }
 
 .accordion-title.is-active::after{
-    content: '➖';
+    content: '－';
     right: 5%;
 }
 
